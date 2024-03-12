@@ -10,7 +10,8 @@ git add
 ```sh
 git commit -m"Текст"
 ```
-
+``` sh
 git log
+```
 git log --oneline
 git checkout
