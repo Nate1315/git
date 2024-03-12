@@ -13,5 +13,7 @@ git commit -m"Текст"
 ``` sh
 git log
 ```
+```sh
 git log --oneline
+```
 git checkout
