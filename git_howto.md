@@ -16,4 +16,6 @@ git log
 ```sh
 git log --oneline
 ```
+``` sh
 git checkout
+```
