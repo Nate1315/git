@@ -37,6 +37,7 @@ git branch -d <branch_name>
 ```sh
 git merge <branch_name>
 ```
+Команда которая позволяет вывести список всех "commit" с графиков branch
 ```sh
 git log --oneline --graph
 ```
