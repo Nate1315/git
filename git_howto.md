@@ -41,6 +41,7 @@ git merge <branch_name>
 ```sh
 git log --oneline --graph
 ```
+Команда которая очищает терминал
 ```sh
-cl
+clear
 ```
