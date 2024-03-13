@@ -16,6 +16,8 @@ git log
 ```sh
 git log --oneline
 ```
+
+Перемещение между ветками 
 ``` sh
-git checkout
+git checkout <branch_name>
 ```
