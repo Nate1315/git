@@ -37,6 +37,7 @@ git branch -d <branch_name>
 ```sh
 git merge <branch_name>
 ```
+Команда позволяющая вывести список комитов
 ```sh
 git log --oneline --graph
 ```
