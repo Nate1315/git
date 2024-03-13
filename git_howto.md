@@ -33,6 +33,7 @@ git branch <имя_ветки>
 Удаление определенной ветки
 git branch -d <branch_name>
 
+Команда позволяющая обьяденить ветки
 ```sh
-git merge <имя ветки>
+git merge <branch_name>
 ```
