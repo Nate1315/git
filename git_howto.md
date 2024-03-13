@@ -42,5 +42,5 @@ git merge <branch_name>
 git log --oneline --graph
 ```
 ```sh
-
+cl
 ```
