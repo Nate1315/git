@@ -19,3 +19,7 @@ git log --oneline
 ``` sh
 git checkout
 ```
+Отображение всех веток
+```sh
+git branch
+```
