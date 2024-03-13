@@ -32,5 +32,3 @@ git branch <имя_ветки>
 ```
 
 git branch -d <Имя_ветки>
-
-git
